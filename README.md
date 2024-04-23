@@ -1,1 +1,2 @@
 These files can be executed by NS3 simulator (NS-3.30). Here all the modified files of OLSR module of NS3 are included. An additional script file named manet-routing-compare.cc is also added which helps to run this code using ns3.
+This work focuses on the improvement of the traditional OLSR routing protocol. This modification enables OLSR to reduce the routing overhead and volume of the MPR nodes without degrading the other routing performances of classical OLSR protocol in MANET. 
